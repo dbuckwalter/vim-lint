@@ -25,6 +25,7 @@ binary:bin boolean
 bioskey:biosk boolean
 bomb boolean
 breakat:brk string
+breakindent:brki boolean
 browsedir:bsdir string
 bufhidden:bh string
 buflisted:bl boolean
